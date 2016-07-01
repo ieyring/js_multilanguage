@@ -3,10 +3,10 @@ A small javascript for multilanguage purposes.
 
 Usage:
 
-<script type="text/javascript" src="locales.js"></script>
-<script type="text/javascript" src="langs.js"></script>
-<script type="text/javascript">
+&lt;script type="text/javascript" src="locales.js" /&gt;
+&lt;script type="text/javascript" src="langs.js" /&gt;
+&lt;script type="text/javascript"&gt;
 langs.initialize();
 document.write(langs._out('hello'));
-</script>
+&lt;/script&gt;
 
