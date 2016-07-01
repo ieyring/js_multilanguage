@@ -1,4 +1,4 @@
-A small javascript for multilanguage purposes.
+A stupid simple small javascript for multilanguage purposes.
 ==============
 
 Usage:
