@@ -1,7 +1,7 @@
 A small javascript for multilanguage purposes.
 ==============
 
-Demo:
+Usage:
 ------------
-
+<a href="https://github.com/ieyring/js_multilanguage/wiki">wiki</a>
 
